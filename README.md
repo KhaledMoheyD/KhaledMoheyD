@@ -8,8 +8,8 @@ With hands-on experience as a data science trainee at Vodafone Egypt, I've enhan
 
 I am excited to bring my knowledge, skills, and enthusiasm for data science to a dynamic team, and I am eager to contribute effectively to the world of data-driven decision-making. </p>
 
-
-- 📫 How to reach me **KhaledMoheyD@gmail.com**
+- **Portfolio:** https://github.com/KhaledMoheyD/Data-Science-Portfolio
+- **reach me:** KhaledMoheyD@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
