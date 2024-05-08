@@ -16,7 +16,6 @@ I am excited to bring my knowledge, skills, and enthusiasm for data science to a
 <a href="https://linkedin.com/in/khaledmoheyd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khaledmoheyd" height="30" width="40" /></a>
 <a href="https://kaggle.com/khaledmoheyelden" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="khaledmoheyelden" height="30" width="40" /></a>
 <a href="https://fb.com/khaledmoheyd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khaledmoheyd" height="30" width="40" /></a>
-<a href="https://instagram.com/khaledmoheyd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khaledmoheyd" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/5minpractice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="5minpractice" height="30" width="40" /></a>
 </p>
 
