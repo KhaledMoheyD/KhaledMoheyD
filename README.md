@@ -1,22 +1,25 @@
 <h1 align="center">Hi 👋, I'm Khaled Mohey Elden</h1>
-<h3 align="center">A passionate Data Scientist from Egypt</h3>
+<h3 align="center">Operations & Data Analyst</h3>
 
 <h3 align="left"> About me:</h3>
-<p> I hold a bachelor's degree in computer science from Ain Shams University and have a strong passion for data science. My educational background has equipped me with a solid foundation in the basics of machine learning, Maths, and calculus, which I am complementing through self-study in data science.
-
-With hands-on experience as a data science trainee at Vodafone Egypt, I've enhanced my skills in data analysis and problem-solving. My self-study journey has equipped me with proficiency in web scraping, statistics, data manipulation, visualization, and machine learning which I also implemented in data science project during my last academic year. 
-
-I am excited to bring my knowledge, skills, and enthusiasm for data science to a dynamic team, and I am eager to contribute effectively to the world of data-driven decision-making. </p>
+<p> I'm an Operations Analyst who works at the intersection of data and execution, not just analyzing what happened, but building the systems that help teams act on it.
+ 
+At Breadfast, one of Egypt's largest q-commerce and logistics operations, I work across fulfillment, last-mile delivery, and operational performance. I visit fulfillment points, observe processes on the ground, identify inefficiencies, then come back and build the solution, whether that's an automated reporting system, a capacity utilization tracker, or a dashboard that ops managers actually use.
+ 
+Before Breadfast, I worked as a Cost & Operations Analyst at Bazzarry, handling end-to-end cost analysis across materials, labor, fleet, and fuel, and building tools to streamline data tracking and reporting.
+ 
+My stack: SQL · Python · Google Sheets · Apps Script · Power BI · Data Studio
+ 
+CS degree from Ain Shams University: Scientific Computing. </p>
 
 - **Portfolio:** https://github.com/KhaledMoheyD/Data-Science-Portfolio
 - **reach me:** KhaledMoheyD@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/khaledmoheyd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khaledmoheyd" height="30" width="40" /></a>
-<a href="https://kaggle.com/khaledmoheyelden" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="khaledmoheyelden" height="30" width="40" /></a>
-<a href="https://fb.com/khaledmoheyd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khaledmoheyd" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/5minpractice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="5minpractice" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/khaledmoheyd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khaledmoheyd" height="30" width="40" style="display:inline; margin-right:10px;" /></a>
+<a href="https://kaggle.com/khaledmoheyelden" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="khaledmoheyelden" height="30" width="40" style="display:inline; margin-right:10px;" /></a>
+<a href="https://www.youtube.com/c/5minpractice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="5minpractice" height="30" width="40" style="display:inline; margin-right:10px;"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
